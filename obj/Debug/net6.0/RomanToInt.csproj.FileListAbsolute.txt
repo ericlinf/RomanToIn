@@ -1,0 +1,15 @@
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.csproj.AssemblyReference.cache
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.AssemblyInfoInputs.cache
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.AssemblyInfo.cs
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.csproj.CoreCompileInputs.cache
+/Users/eric/Projects/RomanToInt/bin/Debug/net6.0/RomanToInt
+/Users/eric/Projects/RomanToInt/bin/Debug/net6.0/RomanToInt.deps.json
+/Users/eric/Projects/RomanToInt/bin/Debug/net6.0/RomanToInt.runtimeconfig.json
+/Users/eric/Projects/RomanToInt/bin/Debug/net6.0/RomanToInt.dll
+/Users/eric/Projects/RomanToInt/bin/Debug/net6.0/RomanToInt.pdb
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.dll
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/refint/RomanToInt.dll
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.pdb
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/RomanToInt.genruntimeconfig.cache
+/Users/eric/Projects/RomanToInt/obj/Debug/net6.0/ref/RomanToInt.dll
